@@ -1,6 +1,6 @@
 
 // Import modules
-// comment for PR
+// comment for PR (again)
 const fs = require('fs');
 const retrieveLabelDirectory = require('../../utils/retrieve-label-directory');
 const checkComplexityEligibility = require('./check-complexity-eligibility');
