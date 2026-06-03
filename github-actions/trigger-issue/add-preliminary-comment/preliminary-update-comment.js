@@ -49,6 +49,7 @@ const NEW_ISSUE_APPROVAL = 'New Issue Approval';
 async function main({ g, c }, { shouldPost, issueNum }) {
   try {
     // If the previous action returns false, stop here
+    shouldPost = true // HARD CODED FOR TESTING
     if(shouldPost === false) {
       console.log("Issue creator not a team member, no need to post comment.");
       return;
