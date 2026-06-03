@@ -67,7 +67,8 @@ async function main({ g, c }, { shouldPost, issueNum }) {
     assignee = await getLatestAssignee();
 
     // Check if developer is allowed to work on this issue
-    const isAdminOrMerge = await memberOfAdminOrMergeTeam();
+    // const isAdminOrMerge = await memberOfAdminOrMergeTeam();
+    const isAdminOrMerge = false; // TESTING 8634-5
     const isAssignedToAnotherIssue = await assignedToAnotherIssue();
 
     // Check if developer is allowed to work on complexity level of the issue
