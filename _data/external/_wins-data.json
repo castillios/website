@@ -34,5 +34,23 @@
           "Display?": true,
           "Homepage?": false,
           "ID": 5
+     },
+     {
+          "Timestamp": "2026-09-05T01:12:11.494Z",
+          "Email Address": "maleahcast@gmail.com",
+          "Full name": "Maleah Smith",
+          "Linkedin URL (optional)": "https://linkedin.com/in/maleah-smith",
+          "Could we use your Linkedin profile picture next to your story?": "maleah-smith",
+          "Github URL (optional)": "https://github.com/castillios/",
+          "Could we use your Github profile picture next to your story?": "No",
+          "Select the team(s) you're on": "castillios",
+          "Select your role(s) on the team": "Development",
+          "What is/was your specific role? (optional)": "Merge Team",
+          "When did you join Hack for LA? (optional)": "2026-04-21T07:00:00.000Z",
+          "What do you want to celebrate (select all that apply)?": "I learned how to work better on a team, I increased the number of commits on my Github profile",
+          "Give us a brief overview": "This is a test Wins submission for issue #8701!",
+          "Display?": true,
+          "Homepage?": false,
+          "ID": 7
      }
 ]
