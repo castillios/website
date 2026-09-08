@@ -18,5 +18,25 @@
           "Display?": true,
           "Homepage?": false,
           "ID": 4
+     },
+     {
+          "Timestamp": "2026-09-08T20:20:50.214Z",
+          "Email Address": "maleahcast@gmail.com",
+          "Full name": "Maleah Smith",
+          "Linkedin URL (optional)": "https://linkedin.com/in/maleah-smith",
+          "LinkedIn Name": "maleah-smith",
+          "Could we use your Linkedin profile picture next to your story?": "Yes",
+          "Github URL (optional)": "https://github.com/castillios/",
+          "GitHub Handle": "castillios",
+          "Could we use your Github profile picture next to your story?": "Yes",
+          "Select the team(s) you're on": "HackforLA Website",
+          "Select your role(s) on the team": "Development",
+          "What is/was your specific role? (optional)": "Merge Team",
+          "When did you join Hack for LA? (optional)": "2026-04-21T07:00:00.000Z",
+          "What do you want to celebrate (select all that apply)?": "I got a new job",
+          "Give us a brief overview": "This is a win!",
+          "Display?": true,
+          "Homepage?": false,
+          "ID": 5
      }
 ]
