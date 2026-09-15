@@ -127,7 +127,7 @@ function setToken_() {
   }
   
   const doc = DocumentApp.openById(id);
-  documentProperties.setProperty('TOKEN', doc.getBody().getText());
+  documentProperties.setProperty('TOKEN', doc.getBody().getText()); 
   console.log(documentProperties.getProperty(`TOKEN`))
 }
 
