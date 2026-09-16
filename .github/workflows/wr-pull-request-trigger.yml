@@ -5,7 +5,8 @@ on:
     types: [completed]
 
 permissions:
-    contents: read
+  contents: read
+  issues: write
 
 jobs:
   Hello-World:

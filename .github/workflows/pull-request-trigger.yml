@@ -6,8 +6,7 @@ on:
     #   - 'gh-pages'
 
 permissions:
-    contents: read
-    issues: write
+  contents: read
 
 jobs:
   Check-For-Linked-Issue:
