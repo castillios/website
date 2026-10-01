@@ -1,4 +1,4 @@
-// Comment added for commit
+// Comment added for commit, edited comment for commit (2)
 // Import modules
 const postIssueComment = require('../utils/post-issue-comment');
 
